@@ -6,5 +6,8 @@ Lesson 7
 5. . . . spred operator
 6. URL
 7. Server
-7.1. fake server
+7.1. fake server JSON Placeholder
 8. Node.js
+9. Fatch ???
+10. Crud
+11. API
