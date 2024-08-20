@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div ></div>
+    <button onclick="play()">-</button> <button onclick="play()">-</button> <button onclick="play()">-</button> <br>
+    <button onclick="play()">-</button> <button onclick="play()">-</button> <button onclick="play()">-</button> <br>
+    <button onclick="play()">-</button> <button onclick="play()">-</button> <button onclick="play()">-</button> <br>
+    </div>
+    <div>
+        <button> Start</button>
+    </div>
+
+    <script>
+        let X_turn = false
+        function play() {
+            if (event.target.innerHTML == "-") {
+                event.target.innerHTML = X_turn ? "X" : "O"
+                X_turn = !X_turn
+                checkWin()
+            }
+
+        }
+        function checkWin() {
+
+        }
+
+    </script>
+
+</body>
+
+</html>
