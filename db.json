@@ -1,0 +1,23 @@
+{
+    "prod": [
+            { "categ": "bread", "prod": "baguettes", "price": "8" },
+            { "categ": "bread", "prod": "crispbreads", "price": "8" },
+            { "categ": "bread", "prod": "whole grain bread", "price": "9"},
+            { "categ": "bread", "prod": "rye bread", "price": "7" },
+            { "categ": "bread", "prod": "white bread", "price": "6"},
+
+            { "categ": "meat", "prod": "chicken", "price": "25" },
+            { "categ": "meat", "prod": "beef", "price": "25" },
+            { "categ": "meat", "prod": "pork", "price": "20" },
+            { "categ": "meat", "prod": "lamb", "price": "30" },
+            { "categ": "meat", "prod": "duck", "price": "28" },
+
+            { "categ": "home", "prod": "soap", "price": "15" },
+            { "categ": "home", "prod": "mop", "price": "15" },
+            { "categ": "home", "prod": "detergent", "price": "18" },
+            { "categ": "home", "prod": "dishwashing liquid", "price": "12" },
+            { "categ": "home", "prod": "cleaning cloths", "price": "8" }
+        ]
+  }
+
+  
